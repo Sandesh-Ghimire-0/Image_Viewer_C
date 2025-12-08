@@ -19,7 +19,7 @@ Currently, only **PPM (Portable Pixmap Format)** images are supported.
 - [Project Structure](#project-structure)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
-- [License](#license)
+- 
 
 ---
 
@@ -85,7 +85,7 @@ cat image.ppm | ./iv
 - The image must be valid and properly formatted.
 - Large images may take more time to load.
 
-## About PPM files:
+## About PPM Format
 PPM (Portable Pixmap Format) is part of the Netpbm image family.
 It is a very simple, uncompressed image format.
 <br><br>
