@@ -19,8 +19,6 @@ Currently, only **PPM (Portable Pixmap Format)** images are supported.
 - [Project Structure](#project-structure)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
-- 
-
 ---
 
 ## Features
